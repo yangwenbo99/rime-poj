@@ -1,5 +1,15 @@
 Type POJ (Pe̍h-Ōe-Ji, Church Romanisation) in RIME. 
 
+用 RIME 拍白話字。
+
+Ing RIME phah Pe̍h-ōe-li.
+
+For the Chinese version of the README file, please see `README.zh.md`. 
+
+Tiong-bûn pan-pún tī-leh  `README.zh.md`. 
+
+中文版本佇咧 `README.zh.md`. 
+
 
 ## Setup
 
@@ -23,3 +33,4 @@ For the best experience, please install Wenquanyi Zen Hei.
 ## Tech details
 
 We use the Normal form C (NFC, the "combining form") whenever possible.  This is achievable by Python's  `unicodedata.normalize(form, unistr)` function. 
+
